@@ -3,7 +3,7 @@ console.log("Iniciando meu servidor ");
 const express = require('express');
 const req = require('express/lib/request');
 const application = express();
-const port = 3001;
+const port = 3000;
 
 
 
